@@ -1,10 +1,10 @@
 # Task 2 - SQL
 
 ## Objectives
-1. Install SQL Server
-2. Install SQL Server Management Studio (SSMS)
-3. Create a sample database using the provided SQL scripts
-4. Execute queries and explore SSMS
+1. Install SQL Server.
+2. Install SQL Server Management Studio (SSMS).
+3. Create a sample database using the provided SQL scripts.
+4. Execute queries and explore SSMS.
 
 ------------------------
 
